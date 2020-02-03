@@ -1,38 +1,41 @@
-.App {
-  text-align: center;
+input[type="text"]:not(.browser-default):focus:not([readonly]),
+input[type="email"]:not(.browser-default):focus:not([readonly]),
+input[type="password"]:not(.browser-default):focus:not([readonly]),
+textarea.materialize-textarea:focus:not([readonly]) {
+  border-color: #7986cb;
+  box-shadow: none;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.input-field input[type=text]:focus + label {
+  color: #7986cb !important;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.input-field .prefix.active {
+  color: #7986cb;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.todo_form {
+  margin-top: 20px;
+}
+
+.todo {
+  margin-bottom: 1rem;
+}
+
+.todo .completed span {
+  text-decoration: line-through;
+}
+
+.todo label {
   display: flex;
-  flex-direction: column;
+  width: 100%;
   align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  justify-content: space-between;
+  cursor: pointer;
+  padding: 1rem;
+  background: #f3f3f3;
 }
 
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.todo i {
+  z-index: 2;
 }
