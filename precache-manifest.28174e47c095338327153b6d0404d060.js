@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8936084e79abac190931540b6b2b60db",
+    "revision": "a54b49e7226ce4bf90ea829337decb94",
     "url": "/react-typesctipt-todo-app/index.html"
   },
   {
-    "revision": "a3f9fb831dbee9b00fdd",
+    "revision": "c317a80711abcdae6ef6",
     "url": "/react-typesctipt-todo-app/static/css/main.8ec52a7d.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-typesctipt-todo-app/static/js/2.4fbc3ecb.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a3f9fb831dbee9b00fdd",
-    "url": "/react-typesctipt-todo-app/static/js/main.f0e82fb9.chunk.js"
+    "revision": "c317a80711abcdae6ef6",
+    "url": "/react-typesctipt-todo-app/static/js/main.ee44d41e.chunk.js"
   },
   {
     "revision": "8f7ce2ed08c38f6eb81c",

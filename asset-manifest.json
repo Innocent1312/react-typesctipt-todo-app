@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/react-typesctipt-todo-app/static/css/main.8ec52a7d.chunk.css",
-    "main.js": "/react-typesctipt-todo-app/static/js/main.f0e82fb9.chunk.js",
-    "main.js.map": "/react-typesctipt-todo-app/static/js/main.f0e82fb9.chunk.js.map",
+    "main.js": "/react-typesctipt-todo-app/static/js/main.ee44d41e.chunk.js",
+    "main.js.map": "/react-typesctipt-todo-app/static/js/main.ee44d41e.chunk.js.map",
     "runtime-main.js": "/react-typesctipt-todo-app/static/js/runtime-main.3060d9dc.js",
     "runtime-main.js.map": "/react-typesctipt-todo-app/static/js/runtime-main.3060d9dc.js.map",
     "static/js/2.4fbc3ecb.chunk.js": "/react-typesctipt-todo-app/static/js/2.4fbc3ecb.chunk.js",
     "static/js/2.4fbc3ecb.chunk.js.map": "/react-typesctipt-todo-app/static/js/2.4fbc3ecb.chunk.js.map",
     "index.html": "/react-typesctipt-todo-app/index.html",
-    "precache-manifest.5b83b4f72c37f50850122543f5d6c959.js": "/react-typesctipt-todo-app/precache-manifest.5b83b4f72c37f50850122543f5d6c959.js",
+    "precache-manifest.28174e47c095338327153b6d0404d060.js": "/react-typesctipt-todo-app/precache-manifest.28174e47c095338327153b6d0404d060.js",
     "service-worker.js": "/react-typesctipt-todo-app/service-worker.js",
     "static/css/main.8ec52a7d.chunk.css.map": "/react-typesctipt-todo-app/static/css/main.8ec52a7d.chunk.css.map",
     "static/js/2.4fbc3ecb.chunk.js.LICENSE.txt": "/react-typesctipt-todo-app/static/js/2.4fbc3ecb.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.3060d9dc.js",
     "static/js/2.4fbc3ecb.chunk.js",
     "static/css/main.8ec52a7d.chunk.css",
-    "static/js/main.f0e82fb9.chunk.js"
+    "static/js/main.ee44d41e.chunk.js"
   ]
 }
